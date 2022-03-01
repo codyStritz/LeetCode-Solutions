@@ -6,3 +6,5 @@
 !*/
 # whitelist java files
 !*/**/*.java
+# whitelist kotlin files
+!*/**/*.kt
